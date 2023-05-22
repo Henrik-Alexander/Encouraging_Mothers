@@ -1,0 +1,34 @@
+Table: Hazard ratios of the piece-wise constant model												
+Hazard Ratios	model1	model2	model3	model4								
+Time interval: 0-12 Months	(ref.)	(ref.)	(ref.)	(ref.)								
+> 12 -24 Months	2.862***	3.446***	3.523***	3.977**								
+> 24 - 36 Months	2.601***	9.124***	9.788***	2.906*								
+Availability		1.036***	1.035***	1.024***								
+Quatliy		1.353*	1.295	1.338				observation interval=0 # Take-up rates in percentage				
+Education: low		(ref.)	(ref.)	(ref.)				observation interval=12 # Take-up rates in percentage				
+Intermediate		2.700***	2.704**	2.765**				observation interval=24 # Take-up rates in percentage				
+High		4.213***	3.959***	4.099***								
+Stratum: Lower Class		(ref.)	(ref.)	(ref.)								
+Middle class		1.846***	1.836***	1.883***								
+Upper class		1.862	1.922	2.090*								
+Unemployment rate		0.953**	0.956*	0.957*								
+East Germany		0.808	0.766	0.823								
+Second childbirth		0.273***	0.273***	0.278***								
+Cohort: 1991-1993		(ref.)	(ref.)	(ref.)								
+1981-1983		1.359	1.373	1.323								(ref.)
+1971-1973		1.144	1.106	1.075								
+Time × Availability		(ref.)	(ref.)									
+> 12 -24 Months		0.998	0.998									
+> 24 - 36 Months		0.954***	0.953***									
+Work-orientation: Adaptive			(ref.)	(ref.)								
+Work-orientation			1.138	0.876								
+Family-orientation			0.705*	0.628***								
+Time × Quality				(ref.)								
+> 12 -24 Months				0.93								
+> 24 - 36 Months				1.08								
+Baseline Hazard	0.0144***	0.000725***	0.000851***	0.00109***								
+Number of subjects	927											
+Number of failures	525											
+N	3787											
+"* p<0.05, ** p<0.01, *** p<0.001"												
+"Source: Pairfam 10.0, Author's calculations using Stata 16"												

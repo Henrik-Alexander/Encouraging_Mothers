@@ -1,0 +1,38 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil ;}}
+{\info {\author Attaullah Shah}{\company IMSciences}{\title .}}
+\deflang1033\plain
+{\footer\pard\qc\plain\f0\chpgn\par}
+{
+{
+{\b\qc\line Table : Descriptive Statistics of continuous variables }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3800\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6600\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9400
+\ql { \b \i{Variable}}\cell
+\qr { \b \i{Obs}}\cell
+\qr { \b \i{Mean}}\cell
+\qr { \b \i{Std. Dev.}}\cell
+\qr { \b \i{Min}}\cell
+\qr { \b \i{Max}}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx3000\cellx3800\cellx5200\cellx6600\cellx8000\cellx9400
+\ql { \b \i{hhincome}}\cell
+\qr {{3179}}\cell
+\qr {{2578.7}}\cell
+\qr {{1456.2}}\cell
+\qr {{0}}\cell
+\qr {{30000}}\cell
+\row
+\ql { \b \i{cumulative work experience}}\cell
+\qr {{3787}}\cell
+\qr {{.9}}\cell
+\qr {{1.8}}\cell
+\qr {{0}}\cell
+\qr {{11.3}}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9400{}\cell
+\row}
+
+
+\writepositionforappend
+}}
